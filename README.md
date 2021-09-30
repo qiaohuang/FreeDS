@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# Free Data Science Resources
 
-You can use the [editor on GitHub](https://github.com/qiaohuang/FreeDS/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Almost free online resources for learning Data Science. Previously, they have been lying in my bookmarks for quite some time, but now, I'll share them with a clear structure to be easy to learn. Note much of the content overlaps, make your choice by your taste.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It’s still under construction.
 
-### Markdown
+## Learning Platforms
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Kaggle](https://www.kaggle.com/) — free micro [courses](https://www.kaggle.com/learn) to gain Data Science skills
+- [fast.ai](https://www.fast.ai/) — best for learning deep learning concepts
+- [Coursera](https://www.coursera.org/) — the largest MOOC platforms
+- [freeCodeCamp](https://www.freecodecamp.org/) — a non-profit organization
+- [YouTube](https://www.youtube.com/) — many channels like 3Blue1Brown, MIT OCW ...
 
-```markdown
-Syntax highlighted code block
+### Python
 
-# Header 1
-## Header 2
-### Header 3
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) — Al Sweigart
+- [Learn Python in 10 minutes](https://www.stavros.io/tutorials/python/) — Stavros' Stuff
+- [Python Wiki page](https://wiki.python.org/moin/BeginnersGuide/Programmers) — Bonus
 
-- Bulleted
-- List
+### Machine Learning
 
-1. Numbered
-2. List
+- [Probabilistic Machine Learning](https://probml.github.io/pml-book/) — Kevin Murphy
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) — Christoph Molnar
 
-**Bold** and _Italic_ and `Code` text
+### Deep Learning
 
-[Link](url) and ![Image](src)
-```
+- [Introduction to Deep Learning](http://introtodeeplearning.com/) — MIT 6.S191
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Data Science
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qiaohuang/FreeDS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [Data Science at the Command Line](https://www.datascienceatthecommandline.com/) — Jeroen Janssens
 
-### Support or Contact
+### Data Mining
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Mining of Massive Datasets](http://www.mmds.org/) — Jure Leskovec, Anand Rajaraman, Jeff Ullman
