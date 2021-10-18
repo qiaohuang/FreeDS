@@ -13,6 +13,14 @@ It’s still under construction.
 - [freeCodeCamp](https://www.freecodecamp.org/) — a non-profit organization
 - [YouTube](https://www.youtube.com/) — many channels like 3Blue1Brown, MIT OCW ...
 
+## Code Practice Platforms
+
+- [Codewars](https://www.codewars.com/)
+- [CodeChef](https://www.codechef.com/)
+- [Codebyte](https://coderbyte.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [Project Euler](https://projecteuler.net/)
+
 ## Python
 
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) — Al Sweigart
@@ -31,7 +39,7 @@ It’s still under construction.
 
 ## Deep Learning
 
-- [Introduction to Deep Learning](http://introtodeeplearning.com/) — MIT 6.S191
+- [Introduction to Deep Learning](http://introtodeeplearning.com/) — MIT 6.S191, ideal for beginners
 
 
 ## Data Science
