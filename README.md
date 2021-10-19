@@ -21,6 +21,13 @@ It’s still under construction.
 - [HackerRank](https://www.hackerrank.com/)
 - [Project Euler](https://projecteuler.net/)
 
+## SQL
+
+- [W3Schools SQL Tutorial](https://www.w3schools.com/sql/) — highly recommend for beginners
+- [PostgreSQL for Everybody Specialization](https://www.coursera.org/specializations/postgresql-for-everybody) — University of Michigan
+- [PostgreSQL Tutorials & Other Resources](https://www.postgresql.org/docs/online-resources/)
+- [Modern Big Data Analysis with SQL Specialization](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) — Cloudera
+
 ## Python
 
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) — Al Sweigart
