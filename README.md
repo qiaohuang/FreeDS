@@ -34,6 +34,9 @@ It’s still under construction.
 - [Learn Python in 10 minutes](https://www.stavros.io/tutorials/python/) — Stavros' Stuff
 - [Python Wiki page](https://wiki.python.org/moin/BeginnersGuide/Programmers) — a bonus resource
 
+<!-- - [Python Programming Tutorials](https://pythonprogramming.net/) — [YouTube Videos](https://www.youtube.com/c/sentdex)
+-->
+
 ### Pandas
 
 - [Pandas Cheat Sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf) — the basics
@@ -48,7 +51,6 @@ It’s still under construction.
 
 - [Introduction to Deep Learning](http://introtodeeplearning.com/) — MIT 6.S191, ideal for beginners
 
-
 ## Data Science
 
 - [Data Science at the Command Line](https://www.datascienceatthecommandline.com/) — Jeroen Janssens
@@ -61,11 +63,11 @@ It’s still under construction.
 
 Short and to-the-point resource
 
-- https://www.datacamp.com/community/blog/python-pandas-cheat-sheet
-- https://www.datacamp.com/community/blog/python-numpy-cheat-sheet
-- https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet
-- https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-statistics
-- https://learnsql.com/blog/sql-basics-cheat-sheet/
+- <https://www.datacamp.com/community/blog/python-pandas-cheat-sheet>
+- <https://www.datacamp.com/community/blog/python-numpy-cheat-sheet>
+- <https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet>
+- <https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-statistics>
+- <https://learnsql.com/blog/sql-basics-cheat-sheet/>
 
 ## Other Language for Data Science
 
